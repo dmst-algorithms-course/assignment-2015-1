@@ -91,7 +91,11 @@ random_neighbours = random.sample(neighbouring_nodes, len(neighbouring_nodes))
 
 ```python
 import random
+```
 
+Στη συνέχεια, αφού διαβάσετε τις παραμέτρους που έχει δώσει ο χρήστης θα πρέπει να έχετε στο πρόγραμμά σας κάτι όπως:
+
+```python
 random.seed(input_seed)
 ```
 
